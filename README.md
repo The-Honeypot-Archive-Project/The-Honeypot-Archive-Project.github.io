@@ -1,3 +1,3 @@
-# The Honeypot Archive Project
+We love honeypots. Deception technology help us to get a glimpse on attackers' behaviors like no other tool can give us. Our initiative has two core activities that help fullfil our mission. First, we are building The Honeypot Dataset, a structured honeypot dataset for the community that allows to quickly search for honeypots. Second, we are running a Honeypot Adoption Program to help preserve honeypot software that are orphans, no longer maintained by their owners for many years.
 
-The mission of The Honeypot Archive Project (THAP) is to help preserve honeypot software.
+_The Honeypot Archive Project was founded in December 2022 by Veronica Valeros, a researcher at the Stratosphere Laboratory, AIC, FEL, CTU in Prague_
