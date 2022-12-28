@@ -1,6 +1,5 @@
 title: The Honeypot Archive Project
 description: The mission of The Honeypot Archive Project is to help preserve honeypot software.
-theme: jekyll-theme-cayman-blog
-logo_url: ./images/thap_logo.png
-github:
-  zip_url: https://github.com/The-Honeypot-Archive-Project
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
